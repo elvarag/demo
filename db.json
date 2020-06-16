@@ -16,9 +16,9 @@
         "type": "text",
         "text": "Mánudagur: 10:00 - 18:00 \n Þriðjudagur: Frí \n Miðvikudagur: 10:00 - 18:00 \n Fimmtudagur 10:00 - 18:00 \n Föstudagur: 10:00 - 18:00 \n Laugardagur: Frí \n Sunnudagur: Frí \n "
       }
-    }
-   }
-  ],
+      ]
+      }
+   },
   "profile": [
     { "id": 1, "Name": "Jón", "Work": 1 }
     ]
