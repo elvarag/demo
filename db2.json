@@ -1,18 +1,11 @@
 {
   "version": "v2",
   "content": {
-    "messages": [
-      {
-        "type": "text",
-        "text": "Jón"
-      },
       "messages": [
       {
         "type": "text",
         "text": "Mánudagur: 10:00 - 18:00, Þriðjudagur: Frí, Miðvikudagur: 10:00 - 18:00, Fimmtudagur 10:00 - 18:00 "
       },
-      {
-      }
      ]
     ]
   }
