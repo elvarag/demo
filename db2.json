@@ -1,0 +1,19 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "Titill 1",
+        "text": "seinni textinn"
+      },
+      {
+      }
+    ],
+    "actions": [
+      {
+        "action": "add_tag",
+        "tag_name": "6980338"
+      },
+    ]
+  }
+}
