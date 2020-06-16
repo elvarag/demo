@@ -31,7 +31,7 @@
       }
    },
   "profile": [
-    { "id": 1, "Name": "Jón", "Workid": 11 }
+    { "id": 1, "Name": "Jón", "Workid": 11 },
     { "id": 2, "Name": "Kári", "Workid": 12 }
     ]
 }
