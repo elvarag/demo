@@ -14,12 +14,24 @@
     "messages": [
       {
         "type": "text",
-        "text": "Mánudagur: 10:00 - 18:00 \n Þriðjudagur: Frí \n Miðvikudagur: 10:00 - 18:00 \n Fimmtudagur 10:00 - 18:00 \n Föstudagur: 10:00 - 18:00 \n Laugardagur: Frí \n Sunnudagur: Frí \n "
+        "text": "Mánudagur: 10:00 - 18:00\nÞriðjudagur: Frí\nMiðvikudagur: 10:00 - 18:00\nFimmtudagur 10:00 - 18:00\nFöstudagur: 10:00 - 18:00\nLaugardagur: Frí\nSunnudagur: Frí"
+      }
+      ]
+      }
+   },
+      "Kári": {
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "text",
+        "text": "Mánudagur: 14:00 - 18:00\nÞriðjudagur: Frí\nMiðvikudagur: 14:00 - 18:00\nFimmtudagur 10:00 - 14:00\nFöstudagur: 10:00 - 14:00\nLaugardagur: Frí\nSunnudagur: Frí"
       }
       ]
       }
    },
   "profile": [
-    { "id": 1, "Name": "Jón", "Work": 1 }
+    { "id": 1, "Name": "Jón", "Workid": 11 }
+    { "id": 1, "Name": "Kári", "Workid": 12 }
     ]
 }
